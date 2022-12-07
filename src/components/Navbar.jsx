@@ -72,14 +72,14 @@ const Navbar = () => {
               Github <FaGithub size={30} />
             </a>
           </li>
-          <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]'>
+          <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-900'>
             <a
               className='flex justify-between items-center font-semibold w-full text-gray-300'
               href='https://www.facebook.com/suuhaas'
               target="_blank" 
               rel="noopener noreferrer"
             >
-              Email <FaFacebook size={30} />
+              Facebook <FaFacebook size={30} />
             </a>
           </li>
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
